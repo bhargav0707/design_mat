@@ -1,0 +1,36 @@
+.example-fill-remaining-space{
+    color:black;
+    margin-left: 120vh;
+    font-size: 5vh;
+}
+.mat-toolbar{
+    height: 15vh;
+    background-color: white;
+}
+.first
+{
+    margin-top: 12vh;
+    margin-left: 20vh;
+}
+.image
+{
+    float: left;
+}
+.second
+{
+    float: left;
+    margin-left: 15vh;
+    margin-top: 10vh;
+}
+.para {
+    width: 500px;
+    margin-top: -1vh;
+}
+.ico{
+float: left;
+margin-left: -5vh;
+}
+button{
+    background-color: slategray;
+    width: 10vh;
+}
